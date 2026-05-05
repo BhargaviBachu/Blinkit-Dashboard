@@ -1,8 +1,7 @@
 # Blinkit-Dashboard
 1.Blinkit Business Insights Dashboard using Power BI & SQL
 
-2.Short Descriptio
-
+2.Short Description
 Built an interactive Power BI dashboard to analyze Blinkit sales, orders, and customer trends.
 Used SQL and data modeling to generate actionable business insights.
 
@@ -26,6 +25,6 @@ Simulated Blinkit dataset for analytics practice, including sales, orders, and c
 📉 Identified customer behavior patterns and top-performing products
 
 6.Screenshots
-
+Example:![Dashboard Preveiw](https://github.com/BhargaviBachu/Blinkit-Dashboard/blob/main/snapshot%20of%20the%20Dashboard.png)
 
 
